@@ -1,0 +1,10 @@
+obama: 22
+president: 19
+ukrainian: 15
+isis: 11
+state: 10
+forces: 10
+against: 10
+uk: 9
+debaltseve: 9
+york: 8
